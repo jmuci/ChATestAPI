@@ -2,5 +2,5 @@
 
 This repo is a Github Hosted Page which includes static test endpoints that return JSON payloads with test data. 
 Currently availale endpoints: 
-- api/recipes.json
+- [api/recipes.json](https://jmuci.github.io/ChATestAPI/api/recipes.json)
   

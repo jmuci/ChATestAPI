@@ -1,1 +1,906 @@
+{
+  "recipes": [
+    {
+      "uuid": "e0a1f2cd-5f34-4a8b-9c30-1a2b3c4d5e6f",
+      "title": "Keto Butter Burgers",
+      "label": "Keto",
+      "description": "Delicious keto-friendly butter burgers wrapped in lettuce.",
+      "preparationTimeMinutes": 20,
+      "recipeUrl": "https://www.dietdoctor.com/recipes/keto-butter-burgers",
+      "imageUrl": "https://www.dietdoctor.com/wp-content/uploads/2025/06/keto-butter-burgers.jpg",
+      "imageUrlThumbnail": "https://www.dietdoctor.com/wp-content/uploads/2025/06/keto-butter-burgers-thumb.jpg"
+    },
+    {
+      "uuid": "a1b2c3d4-e5f6-7890-ab12-cd34ef56gh78",
+      "title": "Asian Keto Chicken Stir-Fry",
+      "label": "Keto",
+      "description": "Quick and easy Asian chicken stir-fry with broccoli.",
+      "preparationTimeMinutes": 25,
+      "recipeUrl": "https://www.dietdoctor.com/recipes/asian-keto-chicken-stir-fry-with-broccoli",
+      "imageUrl": "https://www.dietdoctor.com/wp-content/uploads/2025/06/asian-keto-chicken-stir-fry.jpg",
+      "imageUrlThumbnail": "https://www.dietdoctor.com/wp-content/uploads/2025/06/asian-keto-chicken-stir-fry-thumb.jpg"
+    },
+    {
+      "uuid": "b2c3d4e5-f6a7-8901-bc23-de45fg67hi89",
+      "title": "Keto Chicken Salad with Creamy Dressing",
+      "label": "Keto",
+      "description": "Colorful keto chicken salad with a creamy chimichurri dressing.",
+      "preparationTimeMinutes": 15,
+      "recipeUrl": "https://www.dietdoctor.com/recipes/keto-chicken-salad-with-chimichurri-dressing",
+      "imageUrl": "https://www.dietdoctor.com/wp-content/uploads/2025/06/keto-chicken-salad.jpg",
+      "imageUrlThumbnail": "https://www.dietdoctor.com/wp-content/uploads/2025/06/keto-chicken-salad-thumb.jpg"
+    },
+    {
+      "uuid": "c3d4e5f6-a7b8-9012-cd34-ef56gh78ij90",
+      "title": "Creamy Vegan Pasta",
+      "label": "Vegan",
+      "description": "Rich and creamy white bean vegan pasta.",
+      "preparationTimeMinutes": 30,
+      "recipeUrl": "https://www.loveandlemons.com/creamy-vegan-pasta/",
+      "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/creamy-vegan-pasta.jpg",
+      "imageUrlThumbnail": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/creamy-vegan-pasta-thumb.jpg"
+    },
+    {
+      "uuid": "d4e5f6g7-b8c9-0123-de45-fg67hi89jk01",
+      "title": "Spaghetti Aglio e Olio (Vegan)",
+      "label": "Vegan",
+      "description": "Simple Italian spaghetti with garlic and oil, vegan-friendly.",
+      "preparationTimeMinutes": 20,
+      "recipeUrl": "https://www.loveandlemons.com/spaghetti-aglio-e-olio-vegan/",
+      "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/spaghetti-aglio-e-olio.jpg",
+      "imageUrlThumbnail": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/spaghetti-aglio-e-olio-thumb.jpg"
+    },
+    {
+      "uuid": "e5f6g7h8-c9d0-1234-ef56-gh78ij90kl12",
+      "title": "Vegan Mac and Cheese",
+      "label": "Vegan",
+      "description": "Plant-based mac ‘n’ cheese made creamy with cashews.",
+      "preparationTimeMinutes": 40,
+      "recipeUrl": "https://www.loveandlemons.com/vegan-mac-and-cheese/",
+      "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/vegan-mac-and-cheese.jpg",
+      "imageUrlThumbnail": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/vegan-mac-and-cheese-thumb.jpg"
+    },
+    {
+      "uuid": "f6g7h8i9-d0e1-2345-fg67-hi89jk01lm23",
+      "title": "Best Veggie Burger",
+      "label": "Vegan",
+      "description": "Hearty vegan burger made with mushrooms and walnuts.",
+      "preparationTimeMinutes": 35,
+      "recipeUrl": "https://www.loveandlemons.com/best-veggie-burger/",
+      "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/best-veggie-burger.jpg",
+      "imageUrlThumbnail": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/best-veggie-burger-thumb.jpg"
+    },
+    {
+      "uuid": "g7h8i9j0-e1f2-3456-gh78-ij90kl12mn34",
+      "title": "Creamy Butternut Squash Pasta",
+      "label": "Vegan",
+      "description": "Comforting butternut squash pasta with herbs.",
+      "preparationTimeMinutes": 30,
+      "recipeUrl": "https://www.loveandlemons.com/creamy-butternut-squash-pasta/",
+      "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/creamy-butternut-squash-pasta.jpg",
+      "imageUrlThumbnail": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/creamy-butternut-squash-pasta-thumb.jpg"
+    },
+    {
+      "uuid": "h8i9j0k1-f2g3-4567-hi89-jk01lm23no45",
+      "title": "Keto Pizza",
+      "label": "Keto",
+      "description": "Quick 30-minute keto pizza with low-carb crust.",
+      "preparationTimeMinutes": 30,
+      "recipeUrl": "https://www.dietdoctor.com/recipes/keto-pizza",
+      "imageUrl": "https://www.dietdoctor.com/wp-content/uploads/2025/06/keto-pizza.jpg",
+      "imageUrlThumbnail": "https://www.dietdoctor.com/wp-content/uploads/2025/06/keto-pizza-thumb.jpg"
+    },
+    {
+      "uuid": "i9j0k1l2-g3h4-5678-ij90-kl12mn34op56",
+      "title": "Loaded Keto Breakfast Wrap",
+      "label": "Keto",
+      "description": "Hearty low-carb breakfast wrap with eggs and veggies.",
+      "preparationTimeMinutes": 15,
+      "recipeUrl": "https://www.dietdoctor.com/recipes/loaded-keto-breakfast-wrap",
+      "imageUrl": "https://www.dietdoctor.com/wp-content/uploads/2025/06/loaded-keto-breakfast-wrap.jpg",
+      "imageUrlThumbnail": "https://www.dietdoctor.com/wp-content/uploads/2025/06/loaded-keto-breakfast-wrap-thumb.jpg"
+    },
+    {
+      "uuid": "j0k1l2m3-h4i5-6789-jk01-lm23no34pq67",
+      "title": "Keto Coconut Porridge",
+      "label": "Keto",
+      "description": "Creamy coconut porridge—egg-free and keto-friendly.",
+      "preparationTimeMinutes": 10,
+      "recipeUrl": "https://www.dietdoctor.com/recipes/keto-coconut-porridge",
+      "imageUrl": "https://www.dietdoctor.com/wp-content/uploads/2025/06/keto-coconut-porridge.jpg",
+      "imageUrlThumbnail": "https://www.dietdoctor.com/wp-content/uploads/2025/06/keto-coconut-porridge-thumb.jpg"
+    },
+    {
+      "uuid": "k1l2m3n4-i5j6-7890-kl12-mn34op56qr78",
+      "title": "Vegan Tofu Ramen",
+      "label": "Vegan",
+      "description": "Comforting vegan ramen in homemade mushroom broth.",
+      "preparationTimeMinutes": 45,
+      "recipeUrl": "https://www.loveandlemons.com/vegan-ramen/",
+      "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/vegan-ramen.jpg",
+      "imageUrlThumbnail": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/vegan-ramen-thumb.jpg"
+    },
+    {
+      "uuid": "l2m3n4o5-j6k7-8901-lm23-no45pq67rs89",
+      "title": "Keto Egg Casserole with Zucchini and Ham",
+      "label": "Keto",
+      "description": "Make-ahead keto egg casserole loaded with zucchini & ham.",
+      "preparationTimeMinutes": 40,
+      "recipeUrl": "https://www.dietdoctor.com/recipes/keto-egg-casserole-with-zucchini-and-ham",
+      "imageUrl": "https://www.dietdoctor.com/wp-content/uploads/2025/06/keto-egg-casserole.jpg",
+      "imageUrlThumbnail": "https://www.dietdoctor.com/wp-content/uploads/2025/06/keto-egg-casserole-thumb.jpg"
+    },
+    {
+      "uuid": "m3n4o5p6-k7l8-9012-mn34-op56qr78st90",
+      "title": "Vegan Fettuccine Alfredo",
+      "label": "Vegan",
+      "description": "Creamy vegan Alfredo with cashew-based sauce.",
+      "preparationTimeMinutes": 35,
+      "recipeUrl": "https://www.loveandlemons.com/vegan-fettuccine-alfredo/",
+      "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/vegan-fettuccine-alfredo.jpg",
+      "imageUrlThumbnail": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/vegan-fettuccine-alfredo-thumb.jpg"
+    },
+    {
+      "uuid": "n4o5p6q7-l8m9-0123-no45-pq67rs89tu01",
+      "title": "Vegan Chickpea Salad Sandwich",
+      "label": "Vegan",
+      "description": "High-protein vegan chickpea salad in sandwich form.",
+      "preparationTimeMinutes": 15,
+      "recipeUrl": "https://www.loveandlemons.com/chickpea-salad-sandwich/",
+      "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/chickpea-salad-sandwich.jpg",
+      "imageUrlThumbnail": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/chickpea-salad-sandwich-thumb.jpg"
+    },
+    {
+      "uuid": "o5p6q7r8-m9n0-1234-op56-qr78st89uv12",
+      "title": "Keto Chicken Pesto Zoodle Salad",
+      "label": "Keto",
+      "description": "Mediterranean keto salad with pesto, chicken, and zoodles.",
+      "preparationTimeMinutes": 20,
+      "recipeUrl": "https://www.dietdoctor.com/recipes/keto-chicken-pesto-zoodle-salad",
+      "imageUrl": "https://www.dietdoctor.com/wp-content/uploads/2025/06/keto-chicken-pesto-salad.jpg",
+      "imageUrlThumbnail": "https://www.dietdoctor.com/wp-content/uploads/2025/06/keto-chicken-pesto-salad-thumb.jpg"
+    },
+    {
+      "uuid": "p6q7r8s9-n0o1-2345-pq67-rs89tu01vw23",
+      "title": "Loaded Cauliflower Soup",
+      "label": "Keto",
+      "description": "Low‑carb creamy cauliflower soup, comfort food favorite.",
+      "preparationTimeMinutes": 45,
+      "recipeUrl": "https://www.foodnetwork.com/recipes/loaded-cauliflower-soup",
+      "imageUrl": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2023/06/loaded-cauliflower-soup.jpg",
+      "imageUrlThumbnail": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2023/06/loaded-cauliflower-soup-thumb.jpg"
+    },
+    {
+      "uuid": "q7r8s9t0-o1p2-3456-qr78-st89uv01wx34",
+      "title": "Vegan Butternut Squash Soup",
+      "label": "Vegan",
+      "description": "Creamy dairy‑free butternut squash soup.",
+      "preparationTimeMinutes": 40,
+      "recipeUrl": "https://www.loveandlemons.com/vegan-butternut-squash-soup/",
+      "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/vegan-butternut-soup.jpg",
+      "imageUrlThumbnail": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/vegan-butternut-soup-thumb.jpg"
+    },
+    {
+      "uuid": "r8s9t0u1-p2q3-4567-rs89-tu01vw23xy45",
+      "title": "Vegan Spring Rolls",
+      "label": "Vegan",
+      "description": "Fresh spring rolls packed with veggies and herbs.",
+      "preparationTimeMinutes": 25,
+      "recipeUrl": "https://www.loveandlemons.com/fresh-spring-rolls/",
+      "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/fresh-spring-rolls.jpg",
+      "imageUrlThumbnail": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/fresh-spring-rolls-thumb.jpg"
+    },
+    {
+      "uuid": "s9t0u1v2-q3r4-5678-st89-uv01wx23yz56",
+      "title": "Keto Butter Chicken Wings",
+      "label": "Keto",
+      "description": "Indian‑inspired keto chicken wings with butter sauce.",
+      "preparationTimeMinutes": 35,
+      "recipeUrl": "https://www.dietdoctor.com/recipes/keto-butter-chicken-wings",
+      "imageUrl": "https://www.dietdoctor.com/wp-content/uploads/2025/06/keto-butter-chicken-wings.jpg",
+      "imageUrlThumbnail": "https://www.dietdoctor.com/wp-content/uploads/2025/06/keto-butter-chicken-wings-thumb.jpg"
+    },
+    {
+      "uuid": "t0u1v2w3-r4s5-6789-tu01-vw23xy45za67",
+      "title": "Garlic Steak Bite Salad",
+      "label": "Keto",
+      "description": "Garlic butter steak bites over fresh salad.",
+      "preparationTimeMinutes": 25,
+      "recipeUrl": "https://www.dietdoctor.com/recipes/garlic-steak-bite-salad-with-tarragon-dressing",
+      "imageUrl": "https://www.dietdoctor.com/wp-content/uploads/2025/06/garlic-steak-salad.jpg",
+      "imageUrlThumbnail": "https://www.dietdoctor.com/wp-content/uploads/2025/06/garlic-steak-salad-thumb.jpg"
+    },
+    {
+      "uuid": "u1v2w3x4-s5t6-7890-uv01-wx23yz45ab78",
+      "title": "Keto Coconut Smoothie",
+      "label": "Keto",
+      "description": "Green-packed coconut and avocado keto smoothie.",
+      "preparationTimeMinutes": 5,
+      "recipeUrl": "https://www.allrecipes.com/gallery/keto-avocado-spinach-smoothie/",
+      "imageUrl": "https://images.allrecipes.com/gallery/2015/09/keto-avocado-spinach-smoothie.jpg",
+      "imageUrlThumbnail": "https://images.allrecipes.com/gallery/2015/09/keto-avocado-spinach-smoothie-thumb.jpg"
+    },
+    {
+      "uuid": "v2w3x4y5-t6u7-8901-vw23-xy45ab67bc89",
+      "title": "Vegan Mushroom Ramen",
+      "label": "Vegan",
+      "description": "Savory plant-based mushroom ramen.",
+      "preparationTimeMinutes": 50,
+      "recipeUrl": "https://www.loveandlemons.com/vegan-ramen/",
+      "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/vegan-ramen-bowl.jpg",
+      "imageUrlThumbnail": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/vegan-ramen-bowl-thumb.jpg"
+    },
+    {
+      "uuid": "w3x4y5z6-u7v8-9012-wx23-yz45bc67cd90",
+      "title": "Keto Egg Roll in a Bowl",
+      "label": "Keto",
+      "description": "Deconstructed egg roll with pork, cabbage, and savory flavors.",
+      "preparationTimeMinutes": 25,
+      "recipeUrl": "https://www.peaceloveandlowcarb.com/recipe/keto-egg-roll-in-a-bowl/",
+      "imageUrl": "https://cdn.peaceloveandlowcarb.com/wp-content/uploads/2023/03/keto-egg-roll-in-a-bowl.jpg",
+      "imageUrlThumbnail": "https://cdn.peaceloveandlowcarb.com/wp-content/uploads/2023/03/keto-egg-roll-in-a-bowl-thumb.jpg"
+    },
+    {
+      "uuid": "x4y5z6a7-v8w9-0123-xy45-zc67de78ef01",
+      "title": "Keto Tuscan Chicken",
+      "label": "Keto",
+      "description": "Creamy Tuscan chicken with sun-dried tomatoes and spinach.",
+      "preparationTimeMinutes": 30,
+      "recipeUrl": "https://www.peaceloveandlowcarb.com/recipe/creamy-keto-tuscan-chicken/",
+      "imageUrl": "https://cdn.peaceloveandlowcarb.com/wp-content/uploads/2023/03/keto-tuscan-chicken.jpg",
+      "imageUrlThumbnail": "https://cdn.peaceloveandlowcarb.com/wp-content/uploads/2023/03/keto-tuscan-chicken-thumb.jpg"
+    },
+    {
+      "uuid": "y5z6a7b8-w9x0-1234-yz45-ab67ef78gh12",
+      "title": "Keto Philly Cheesesteak Casserole",
+      "label": "Keto",
+      "description": "All the flavor of Philly cheesesteak in a low-carb casserole.",
+      "preparationTimeMinutes": 45,
+      "recipeUrl": "https://www.peaceloveandlowcarb.com/recipe/keto-philly-cheesesteak-casserole/",
+      "imageUrl": "https://cdn.peaceloveandlowcarb.com/wp-content/uploads/2023/03/keto-philly-cheesesteak-casserole.jpg",
+      "imageUrlThumbnail": "https://cdn.peaceloveandlowcarb.com/wp-content/uploads/2023/03/keto-philly-cheesesteak-casserole-thumb.jpg"
+    },
+    {
+      "uuid": "z6a7b8c9-x0y1-2345-za67-bc78fg89hi23",
+      "title": "Vegan Coconut Curry",
+      "label": "Vegan",
+      "description": "Easy weeknight coconut curry with fresh veggies.",
+      "preparationTimeMinutes": 30,
+      "recipeUrl": "https://www.loveandlemons.com/easy-coconut-curry/",
+      "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/easy-coconut-curry.jpg",
+      "imageUrlThumbnail": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/easy-coconut-curry-thumb.jpg"
+    },
+    {
+      "uuid": "a7b8c9d0-y1z2-3456-ab78-cd89gh90ij34",
+      "title": "Vegan Meatballs",
+      "label": "Vegan",
+      "description": "Smoky vegan meatballs perfect in subs or pasta.",
+      "preparationTimeMinutes": 40,
+      "recipeUrl": "https://www.loveandlemons.com/vegan-meatballs/",
+      "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/vegan-meatballs.jpg",
+      "imageUrlThumbnail": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/vegan-meatballs-thumb.jpg"
+    },
+    {
+      "uuid": "b8c9d0e1-z2a3-4567-bc89-de90ij34kl45",
+      "title": "Keto Tuna Salad Lettuce Wraps",
+      "label": "Keto",
+      "description": "Low‑carb tuna salad wrapped in crunchy lettuce.",
+      "preparationTimeMinutes": 15,
+      "recipeUrl": "https://www.eatingwell.com/recipes/keto-tuna-salad-lettuce-wraps/",
+      "imageUrl": "https://www.eatingwell.com/wp-content/uploads/keto-tuna-salad-lettuce-wraps.jpg",
+      "imageUrlThumbnail": "https://www.eatingwell.com/wp-content/uploads/keto-tuna-salad-lettuce-wraps-thumb.jpg"
+    },
+    {
+      "uuid": "c9d0e1f2-a3b4-5678-cd90-ef01jk45lm56",
+      "title": "Keto Shrimp Zucchini Noodles",
+      "label": "Keto",
+      "description": "Shrimp with zoodles in a garlic‑butter sauce.",
+      "preparationTimeMinutes": 20,
+      "recipeUrl": "https://www.eatingwell.com/recipes/keto-shrimp-zucchini-noodles/",
+      "imageUrl": "https://www.eatingwell.com/wp-content/uploads/keto-shrimp-zoodles.jpg",
+      "imageUrlThumbnail": "https://www.eatingwell.com/wp-content/uploads/keto-shrimp-zoodles-thumb.jpg"
+    },
+    {
+      "uuid": "d0e1f2g3-b4c5-6789-de01-fg23lm56mn67",
+      "title": "Vegan Broccoli Salad",
+      "label": "Vegan",
+      "description": "Fresh vegan broccoli salad with smoky nuts.",
+      "preparationTimeMinutes": 15,
+      "recipeUrl": "https://www.loveandlemons.com/best-broccoli-salad/",
+      "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/broccoli-salad.jpg",
+      "imageUrlThumbnail": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/broccoli-salad-thumb.jpg"
+    },
+    {
+      "uuid": "e1f2g3h4-c5d6-7890-ef12-gh34mn67no78",
+      "title": "Vegan Tahini Sauce Pasta",
+      "label": "Vegan",
+      "description": "Pasta with creamy vegan tahini sauce.",
+      "preparationTimeMinutes": 25,
+      "recipeUrl": "https://www.loveandlemons.com/tahini-pasta/",
+      "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/tahini-pasta.jpg",
+      "imageUrlThumbnail": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/tahini-pasta-thumb.jpg"
+    },
+    {
+      "uuid": "f2g3h4i5-d6e7-8901-gh23-ij45no78op89",
+      "title": "Keto Salmon Cakes",
+      "label": "Keto",
+      "description": "Low‑carb salmon cakes crisped in a pan.",
+      "preparationTimeMinutes": 30,
+      "recipeUrl": "https://www.eatingwell.com/recipes/keto-salmon-cakes/",
+      "imageUrl": "https://www.eatingwell.com/wp-content/uploads/keto-salmon-cakes.jpg",
+      "imageUrlThumbnail": "https://www.eatingwell.com/wp-content/uploads/keto-salmon-cakes-thumb.jpg"
+    },
+    {
+        "uuid": "00112233-4455-6677-8899-aabbccddeeff",
+        "title": "Spanish Gazpacho",
+        "label": "Spanish Cuisine",
+        "description": "Chilled tomato and vegetable soup from Andalusia.",
+        "preparationTimeMinutes": 15,
+        "recipeUrl": "https://www.simplyrecipes.com/recipes/authentic_gazpacho_soup/",
+        "imageUrl": "https://www.simplyrecipes.com/thmb/GazpachoRecipe.jpg",
+        "imageUrlThumbnail": "https://www.simplyrecipes.com/thmb/GazpachoThumb.jpg"
+      },
+      {
+        "uuid": "11223344-5566-7788-99aa-bbccddeeff00",
+        "title": "Paella Valenciana",
+        "label": "Spanish Cuisine",
+        "description": "Classic Valencian saffron rice with seafood & chicken.",
+        "preparationTimeMinutes": 60,
+        "recipeUrl": "https://www.simplyrecipes.com/recipes/paella_valenciana/",
+        "imageUrl": "https://www.simplyrecipes.com/thmb/PaellaRecipe.jpg",
+        "imageUrlThumbnail": "https://www.simplyrecipes.com/thmb/PaellaThumb.jpg"
+      },
+      {
+        "uuid": "22334455-6677-8899-aabb-ccddeeff0011",
+        "title": "Spanish Tortilla Española",
+        "label": "Spanish Cuisine",
+        "description": "Traditional potato and onion omelette from Spain.",
+        "preparationTimeMinutes": 30,
+        "recipeUrl": "https://www.simplyrecipes.com/recipes/spanish_tortilla/",
+        "imageUrl": "https://www.simplyrecipes.com/thmb/TortillaRecipe.jpg",
+        "imageUrlThumbnail": "https://www.simplyrecipes.com/thmb/TortillaThumb.jpg"
+      },
+      {
+        "uuid": "33445566-7788-99aa-bbcc-ddeeff001122",
+        "title": "Patatas Bravas",
+        "label": "Spanish Cuisine",
+        "description": "Crispy potatoes with spicy tomato sauce.",
+        "preparationTimeMinutes": 25,
+        "recipeUrl": "https://www.simplyrecipes.com/recipes/patatas_bravas/",
+        "imageUrl": "https://www.simplyrecipes.com/thmb/PatatasBravasRecipe.jpg",
+        "imageUrlThumbnail": "https://www.simplyrecipes.com/thmb/PatatasBravasThumb.jpg"
+      },
+      {
+        "uuid": "44556677-8899-aabb-ccdd-eeff00112233",
+        "title": "Spanish Churros",
+        "label": "Spanish Cuisine",
+        "description": "Fried-dough pastry dusted with sugar and served with chocolate.",
+        "preparationTimeMinutes": 45,
+        "recipeUrl": "https://www.simplyrecipes.com/recipes/churros/",
+        "imageUrl": "https://www.simplyrecipes.com/thmb/ChurrosRecipe.jpg",
+        "imageUrlThumbnail": "https://www.simplyrecipes.com/thmb/ChurrosThumb.jpg"
+      },
+      {
+        "uuid": "55667788-99aa-bbcc-ddee-ff0011223344",
+        "title": "Italian Margherita Pizza",
+        "label": "Italian Cuisine",
+        "description": "Classic Neapolitan pizza with tomatoes, mozzarella & basil.",
+        "preparationTimeMinutes": 45,
+        "recipeUrl": "https://www.simplyrecipes.com/recipes/margherita_pizza/",
+        "imageUrl": "https://www.simplyrecipes.com/thmb/MargheritaPizzaRecipe.jpg",
+        "imageUrlThumbnail": "https://www.simplyrecipes.com/thmb/MargheritaPizzaThumb.jpg"
+      },
+      {
+        "uuid": "66778899-aabb-ccdd-eeff-001122334455",
+        "title": "Italian Carbonara",
+        "label": "Italian Cuisine",
+        "description": "Creamy sauce made with eggs, cheese, pancetta, and pepper.",
+        "preparationTimeMinutes": 25,
+        "recipeUrl": "https://www.simplyrecipes.com/recipes/carbonara/",
+        "imageUrl": "https://www.simplyrecipes.com/thmb/CarbonaraRecipe.jpg",
+        "imageUrlThumbnail": "https://www.simplyrecipes.com/thmb/CarbonaraThumb.jpg"
+      },
+      {
+        "uuid": "778899aa-bbcc-ddee-ff00-112233445566",
+        "title": "Italian Lasagna Bolognese",
+        "label": "Italian Cuisine",
+        "description": "Layered pasta with rich meat sauce and cheese.",
+        "preparationTimeMinutes": 90,
+        "recipeUrl": "https://www.simplyrecipes.com/recipes/lasagna_bolognese/",
+        "imageUrl": "https://www.simplyrecipes.com/thmb/LasagnaRecipe.jpg",
+        "imageUrlThumbnail": "https://www.simplyrecipes.com/thmb/LasagnaThumb.jpg"
+      },
+      {
+        "uuid": "8899aabb-ccdd-eeff-0011-223344556677",
+        "title": "Italian Bruschetta",
+        "label": "Italian Cuisine",
+        "description": "Toasted bread topped with tomatoes, basil & olive oil.",
+        "preparationTimeMinutes": 15,
+        "recipeUrl": "https://www.simplyrecipes.com/recipes/bruschetta/",
+        "imageUrl": "https://www.simplyrecipes.com/thmb/BruschettaRecipe.jpg",
+        "imageUrlThumbnail": "https://www.simplyrecipes.com/thmb/BruschettaThumb.jpg"
+      },
+      {
+        "uuid": "99aabbcc-ddee-ff00-1122-334455667788",
+        "title": "French Coq au Vin",
+        "label": "French Cuisine",
+        "description": "Chicken braised in red wine with mushrooms & bacon.",
+        "preparationTimeMinutes": 120,
+        "recipeUrl": "https://www.simplyrecipes.com/recipes/coq_au_vin/",
+        "imageUrl": "https://www.simplyrecipes.com/thmb/CoqAuVinRecipe.jpg",
+        "imageUrlThumbnail": "https://www.simplyrecipes.com/thmb/CoqAuVinThumb.jpg"
+      },
+      {
+        "uuid": "aabbccdd-eeff-0011-2233-445566778899",
+        "title": "French Ratatouille",
+        "label": "French Cuisine",
+        "description": "Layered vegetable casserole with zucchini, eggplant & tomatoes.",
+        "preparationTimeMinutes": 60,
+        "recipeUrl": "https://www.simplyrecipes.com/recipes/ratatouille/",
+        "imageUrl": "https://www.simplyrecipes.com/thmb/RatatouilleRecipe.jpg",
+        "imageUrlThumbnail": "https://www.simplyrecipes.com/thmb/RatatouilleThumb.jpg"
+      },
+      {
+        "uuid": "bbccddee-ff00-1122-3344-5566778899aa",
+        "title": "French Crepes",
+        "label": "French Cuisine",
+        "description": "Thin pancakes perfect for savory or sweet fillings.",
+        "preparationTimeMinutes": 20,
+        "recipeUrl": "https://www.simplyrecipes.com/recipes/crepes/",
+        "imageUrl": "https://www.simplyrecipes.com/thmb/CrepesRecipe.jpg",
+        "imageUrlThumbnail": "https://www.simplyrecipes.com/thmb/CrepesThumb.jpg"
+      },
+      {
+        "uuid": "ccddee00-1122-3344-5566-778899aabbcc",
+        "title": "French Tarte Tatin",
+        "label": "French Cuisine",
+        "description": "Upside‑down caramelized apple tart.",
+        "preparationTimeMinutes": 70,
+        "recipeUrl": "https://www.simplyrecipes.com/recipes/tarte_tatin/",
+        "imageUrl": "https://www.simplyrecipes.com/thmb/TarteTatinRecipe.jpg",
+        "imageUrlThumbnail": "https://www.simplyrecipes.com/thmb/TarteTatinThumb.jpg"
+      },
+      {
+        "uuid": "ddeeff11-2233-4455-6677-8899aabbccdd",
+        "title": "Low Carbs Zucchini Lasagna",
+        "label": "Low Carbs",
+        "description": "Lasagna made with zucchini slices instead of pasta.",
+        "preparationTimeMinutes": 50,
+        "recipeUrl": "https://www.allrecipes.com/recipe/zucchini-lasagna-low-carb/",
+        "imageUrl": "https://images.allrecipes.com/zucchini-lasagna.jpg",
+        "imageUrlThumbnail": "https://images.allrecipes.com/zucchini-lasagna-thumb.jpg"
+      },
+      {
+        "uuid": "eeff0011-2233-4455-6677-8899aabbccee",
+        "title": "Low Carbs Cauliflower Fried Rice",
+        "label": "Low Carbs",
+        "description": "Cauliflower rice with veggies and eggs.",
+        "preparationTimeMinutes": 25,
+        "recipeUrl": "https://www.allrecipes.com/recipe/cauliflower-fried-rice/",
+        "imageUrl": "https://images.allrecipes.com/cauliflower-fried-rice.jpg",
+        "imageUrlThumbnail": "https://images.allrecipes.com/cauliflower-fried-rice-thumb.jpg"
+      },
+      {
+        "uuid": "ff001122-3344-5566-7788-99aabbccddff",
+        "title": "Low Carbs Chicken Alfredo (with zucchini noodles)",
+        "label": "Low Carbs",
+        "description": "Creamy Alfredo served over zoodles instead of pasta.",
+        "preparationTimeMinutes": 30,
+        "recipeUrl": "https://www.allrecipes.com/recipe/chicken-alfredo-zucchini-noodles/",
+        "imageUrl": "https://images.allrecipes.com/chicken-alfredo-zoodles.jpg",
+        "imageUrlThumbnail": "https://images.allrecipes.com/chicken-alfredo-zoodles-thumb.jpg"
+      },
+      {
+        "uuid": "aa111111-2222-3333-4444-555555555555",
+        "title": "Chinese Kung Pao Chicken",
+        "label": "Asian",
+        "description": "Spicy stir‑fried chicken with peanuts, chilis and savory sauce.",
+        "preparationTimeMinutes": 30,
+        "recipeUrl": "https://www.allrecipes.com/recipe/229960/kung-pao-chicken-ii/",
+        "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/2280914.jpg",
+        "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/2280914.jpg"
+      },
+      {
+        "uuid": "bb222222-3333-4444-5555-666666666666",
+        "title": "Japanese Chicken Teriyaki",
+        "label": "Asian",
+        "description": "Classic teriyaki glazed chicken, savory and sweet.",
+        "preparationTimeMinutes": 25,
+        "recipeUrl": "https://www.allrecipes.com/recipe/228319/teriyaki-chicken/",
+        "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/4571222.jpg",
+        "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/4571222.jpg"
+      },
+      {
+        "uuid": "cc333333-4444-5555-6666-777777777777",
+        "title": "Thai Spicy Basil Chicken (Pad Krapow Gai)",
+        "label": "Asian",
+        "description": "Quick, spicy Thai basil stir‑fried chicken over rice.",
+        "preparationTimeMinutes": 20,
+        "recipeUrl": "https://www.allrecipes.com/recipe/229960/kung-pao-chicken-ii/", 
+        "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/6422759.jpg",
+        "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/6422759.jpg"
+      },
+      {
+        "uuid": "dd444444-5555-6666-7777-888888888888",
+        "title": "Chinese Pot Stickers",
+        "label": "Asian",
+        "description": "Pan‑fried dumplings filled with pork and veggies.",
+        "preparationTimeMinutes": 30,
+        "recipeUrl": "https://www.allrecipes.com/recipe/230175/potstickers/",
+        "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/2280913.jpg",
+        "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/2280913.jpg"
+      },
+      {
+        "uuid": "ee555555-6666-7777-8888-999999999999",
+        "title": "Vietnamese Beef Pho",
+        "label": "Asian",
+        "description": "Fragrant beef noodle soup with fresh herbs.",
+        "preparationTimeMinutes": 60,
+        "recipeUrl": "https://www.allrecipes.com/recipe/239539/vietnamese-beef-pho/",
+        "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/1109688.jpg",
+        "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/1109688.jpg"
+      },
+      {
+        "uuid": "ff666666-7777-8888-9999-aaaaaaaaaaaa",
+        "title": "American Apple Pie",
+        "label": "American",
+        "description": "Classic double‑crust apple pie with cinnamon sugar.",
+        "preparationTimeMinutes": 75,
+        "recipeUrl": "https://www.allrecipes.com/recipe/12682/apple-pie-by-grandma-ople/",
+        "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/2280912.jpg",
+        "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/2280912.jpg"
+      },
+      {
+        "uuid": "00112233-2233-4455-5677-888888777777",
+        "title": "New York Cheesecake",
+        "label": "American",
+        "description": "Rich, dense cheesecake with creamy texture.",
+        "preparationTimeMinutes": 90,
+        "recipeUrl": "https://www.allrecipes.com/recipe/24711/new-york-style-cheesecake/",
+        "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/2280910.jpg",
+        "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/2280910.jpg"
+      },
+      {
+        "uuid": "11223344-3344-5566-6677-999999666666",
+        "title": "American Banana Cream Pie",
+        "label": "Dessert",
+        "description": "Creamy banana custard pie topped with whipped cream.",
+        "preparationTimeMinutes": 60,
+        "recipeUrl": "https://en.wikipedia.org/wiki/Banana_cream_pie",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Banana_cream_pie.jpg",
+        "imageUrlThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Banana_cream_pie.jpg/250px-Banana_cream_pie.jpg"
+      },
+      {
+        "uuid": "22334455-4455-6677-7788-aaaaaabbbbbb",
+        "title": "Millionaire Pie",
+        "label": "Dessert",
+        "description": "Southern icebox pie with pineapple, pecans & cream.",
+        "preparationTimeMinutes": 10,
+        "recipeUrl": "https://en.wikipedia.org/wiki/Millionaire_pie",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Millionaire_pie.jpg",
+        "imageUrlThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Millionaire_pie.jpg/250px-Millionaire_pie.jpg"
+      },
+      {
+        "uuid": "33445566-5566-7788-8899-bbbbbccccccc",
+        "title": "Lemon Bars",
+        "label": "Dessert",
+        "description": "Tangy lemon curd on a buttery shortbread crust.",
+        "preparationTimeMinutes": 45,
+        "recipeUrl": "https://en.wikipedia.org/wiki/Lemon_bar",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Lemon_bar.jpg",
+        "imageUrlThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Lemon_bar.jpg/250px-Lemon_bar.jpg"
+      },
+      {
+        "uuid": "44556677-6677-8899-9900-ccccccdddddd",
+        "title": "American Chocolate Chip Cookies",
+        "label": "Dessert",
+        "description": "Soft and chewy classic chocolate chip cookies.",
+        "preparationTimeMinutes": 30,
+        "recipeUrl": "https://www.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/",
+        "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/2280909.jpg",
+        "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/2280909.jpg"
+      },
+      {
+        "uuid": "55667788-7788-9900-aabb-ddddeeefff00",
+        "title": "Classic American Brownies",
+        "label": "Dessert",
+        "description": "Fudgy rich chocolate brownies with crisp edges.",
+        "preparationTimeMinutes": 40,
+        "recipeUrl": "https://www.allrecipes.com/recipe/10549/best-brownies/",
+        "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/2280908.jpg",
+        "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/2280908.jpg"
+      },
+      {
+        "uuid": "66778899-8899-0000-bbcc-eeefffaa1122",
+        "title": "American Apple Crisp",
+        "label": "Dessert",
+        "description": "Warm spiced apple filling topped with oats and sugar.",
+        "preparationTimeMinutes": 50,
+        "recipeUrl": "https://www.allrecipes.com/recipe/229252/apple-crisp/",
+        "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/2280907.jpg",
+        "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/2280907.jpg"
+      },
+      {
+        "uuid": "778899aa-9900-1111-ccdd-fffaaabb2233",
+        "title": "Japanese Miso Soup",
+        "label": "Asian",
+        "description": "Traditional hearty miso soup with tofu and seaweed.",
+        "preparationTimeMinutes": 15,
+        "recipeUrl": "https://www.allrecipes.com/recipe/128187/simple-miso-soup/",
+        "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/2280906.jpg",
+        "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/2280906.jpg"
+      },
+      {
+        "uuid": "8899aabb-0000-2222-ddee-aabbccdd3344",
+        "title": "American Boston Cream Pie",
+        "label": "Dessert",
+        "description": "Vanilla custard–filled sponge cake with chocolate glaze.",
+        "preparationTimeMinutes": 70,
+        "recipeUrl": "https://www.allrecipes.com/recipe/16748/boston-boston-cream-pie/",
+        "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/2280905.jpg",
+        "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/2280905.jpg"
+      },
+      {
+        "uuid": "99aabbcc-1111-3333-eeff-bbccddeeff33",
+        "title": "Chinese Sweet and Sour Pork",
+        "label": "Asian",
+        "description": "Breaded pork in a tangy sweet and sour sauce.",
+        "preparationTimeMinutes": 35,
+        "recipeUrl": "https://www.allrecipes.com/recipe/270005/sweet-and-sour-pork/",
+        "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/2280904.jpg",
+        "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/2280904.jpg"
+      },
+      {
+        "uuid": "aabbccdd-2222-4444-ffee-ccddeeff4455",
+        "title": "Thai Pad Thai",
+        "label": "Asian",
+        "description": "Stir‑fried rice noodles with shrimp, eggs, peanuts, and sauce.",
+        "preparationTimeMinutes": 30,
+        "recipeUrl": "https://www.allrecipes.com/recipe/228319/chicken-pad-thai/",
+        "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/2280903.jpg",
+        "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/2280903.jpg"
+      },
+      {
+        "uuid": "bbccdde2-3333-5555-ff00-eeddccbbaa66",
+        "title": "American Pecan Pie",
+        "label": "Dessert",
+        "description": "Sweet custard pie loaded with toasted pecans.",
+        "preparationTimeMinutes": 60,
+        "recipeUrl": "https://www.allrecipes.com/recipe/228319/pecan-pie-viii/",
+        "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/2280902.jpg",
+        "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/2280902.jpg"
+      },
+      {
+        "uuid": "ccddee33-4444-6666-0011-ffaabbccdd77",
+        "title": "American Snickerdoodle Cookies",
+        "label": "Dessert",
+        "description": "Soft cinnamon‑sugar coated cookies.",
+        "preparationTimeMinutes": 25,
+        "recipeUrl": "https://www.allrecipes.com/recipe/10646/easy-snickerdoodles/",
+        "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/2280901.jpg",
+        "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/2280901.jpg"
+      },
+      {
+        "uuid": "ddeeff44-5555-7777-1122-ccbbaaeeff88",
+        "title": "Japanese Yakisoba",
+        "label": "Asian",
+        "description": "Stir fried noodles with veggies and yakisoba sauce.",
+        "preparationTimeMinutes": 25,
+        "recipeUrl": "https://www.allrecipes.com/recipe/229960/kung-pao-chicken-ii/",
+        "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/2280900.jpg",
+        "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/2280900.jpg"
+      },
+      {
+        "uuid": "eeff0011-6666-8888-5566-aabbccddeeff",
+        "title": "American Chocolate Fudge",
+        "label": "Dessert",
+        "description": "Rich three‑ingredient chocolate fudge.",
+        "preparationTimeMinutes": 20,
+        "recipeUrl": "https://richanddelish.com/american-desserts/",
+        "imageUrl": "https://richanddelish.com/wp-content/uploads/chocolate-fudge.jpg",
+        "imageUrlThumbnail": "https://richanddelish.com/wp-content/uploads/chocolate-fudge-thumb.jpg"
+      },
+      {
+        "uuid": "bbaa0099-7777-9999-6677-ddccbbaa5566",
+        "title": "Asian Vegan Ginger Stir‑Fry",
+        "label": "Asian",
+        "description": "Vibrant vegan stir‑fry with ginger and mixed veggies.",
+        "preparationTimeMinutes": 20,
+        "recipeUrl": "https://www.allrecipes.com/recipe/vegan-stir-fry/",
+        "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/2280899.jpg",
+        "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/2280899.jpg"
+      },
+      {
+        "uuid": "ccaa8877-8888-0000-7788-ffeeddcc9988",
+        "title": "American Peach Cobbler",
+        "label": "Dessert",
+        "description": "Warm peach filling with biscuit‑style topping.",
+        "preparationTimeMinutes": 55,
+        "recipeUrl": "https://www.allrecipes.com/recipe/24058/grandmas-peach-cobbler/",
+        "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/2280898.jpg",
+        "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/2280898.jpg"
+      },
+      {
+        "uuid": "ddccbbaa-9999-1111-8899-adddeecc1133",
+        "title": "Asian Beef Rendang",
+        "label": "Asian",
+        "description": "Slow‑cooked Indonesian beef curry with spices.",
+        "preparationTimeMinutes": 120,
+        "recipeUrl": "https://www.allrecipes.com/recipe/239722/indonesian-beef-rendang/",
+        "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/2280897.jpg",
+        "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/2280897.jpg"
+      },
+      {
+        "uuid": "aa123456-7bcd-8901-ef23-456789abcdef",
+        "title": "Swedish Cardamom Buns (Kardemummabullar)",
+        "label": "Scandinavian",
+        "description": "Soft, fluffy sweet buns flavored with cardamom—perfect for fika.",
+        "preparationTimeMinutes": 150,
+        "recipeUrl": "https://skandibaking.com/kardemummabullar-swedish-cardamom-buns/",
+        "imageUrl": "https://skandibaking.com/wp-content/uploads/2020/11/cardamombuns.jpg",
+        "imageUrlThumbnail": "https://skandibaking.com/wp-content/uploads/2020/11/cardamombuns-thumb.jpg"
+      },
+      {
+        "uuid": "bb234567-8cde-9012-fg34-567890abcdef",
+        "title": "Swedish Semlor (Cardamom Cream Buns)",
+        "label": "Scandinavian",
+        "description": "Rich cardamom buns filled with almond paste and whipped cream—Shrovetide specialty.",
+        "preparationTimeMinutes": 180,
+        "recipeUrl": "https://www.vogue.com/article/semla-recipe",
+        "imageUrl": "https://assets.vogue.com/images/semlor.jpg",
+        "imageUrlThumbnail": "https://assets.vogue.com/images/semlor-thumb.jpg"
+      },
+      {
+        "uuid": "cc345678-9def-0123-gh45-678901abcdef",
+        "title": "Swedish Giant Cardamom Bun",
+        "label": "Scandinavian",
+        "description": "A large braided version of the classic cardamom bun.",
+        "preparationTimeMinutes": 180,
+        "recipeUrl": "https://www.bonappetit.com/recipe/giant-cardamom-bun",
+        "imageUrl": "https://assets.bonappetit.com/photos/giant-cardamom-bun.jpg",
+        "imageUrlThumbnail": "https://assets.bonappetit.com/photos/giant-cardamom-bun-thumb.jpg"
+      },
+      {
+        "uuid": "dd456789-0ef0-1234-hi56-789012abcdef",
+        "title": "Danish Smørrebrød: Pickled Herring",
+        "label": "Scandinavian",
+        "description": "Open-faced rye sandwich topped with pickled herring, onion, and dill.",
+        "preparationTimeMinutes": 10,
+        "recipeUrl": "https://www.seriouseats.com/pickled-herring-smorrebrod-danish-sandwich-recipe",
+        "imageUrl": "https://www.seriouseats.com/images/pickled-herring-smorrebrod.jpg",
+        "imageUrlThumbnail": "https://www.seriouseats.com/images/pickled-herring-smorrebrod-thumb.jpg"
+      },
+      {
+        "uuid": "ee567890-1f01-2345-ij67-890123abcdef",
+        "title": "Danish Shrimp Smørrebrød",
+        "label": "Scandinavian",
+        "description": "Butter rye bread topped with baby shrimp, crème fraîche, cucumber & lemon.",
+        "preparationTimeMinutes": 15,
+        "recipeUrl": "https://daytonadanielsen.com/easy-elegant-shrimp-smorrebrod/",
+        "imageUrl": "https://daytonadanielsen.com/photos/shrimp-smorrebrod.jpg",
+        "imageUrlThumbnail": "https://daytonadanielsen.com/photos/shrimp-smorrebrod-thumb.jpg"
+      },
+      {
+        "uuid": "ff678901-2g12-3456-jk78-901234abcdef",
+        "title": "Swedish Meatball Smørrebrød",
+        "label": "Scandinavian",
+        "description": "Dense rye bread with Swedish meatballs and creamy pickled beet salad.",
+        "preparationTimeMinutes": 30,
+        "recipeUrl": "https://true-north-kitchen.com/swedish-meatball-smorrebrod-with-creamy-pickled-beet-salad/",
+        "imageUrl": "https://true-north-kitchen.com/images/swedish-meatball-smorrebrod.jpg",
+        "imageUrlThumbnail": "https://true-north-kitchen.com/images/swedish-meatball-smorrebrod-thumb.jpg"
+      },
+      {
+        "uuid": "001789012-3h23-4567-kl89-012345abcdef",
+        "title": "Norwegian Ginger Nuts (Ingefærnøtter)",
+        "label": "Scandinavian",
+        "description": "Traditional crisp ginger cookies with spices like ginger and cardamom.",
+        "preparationTimeMinutes": 45,
+        "recipeUrl": "https://en.wikipedia.org/wiki/Ingef%C3%A6rn%C3%B8tter",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Ingefaernotter.jpg",
+        "imageUrlThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ingefaernotter.jpg/250px-Ingefaernotter.jpg"
+      },
+      {
+        "uuid": "112890123-4i34-5678-lm90-123456abcdef",
+        "title": "Norwegian Prince Cake (Fyrstekake)",
+        "label": "Scandinavian",
+        "description": "Almond-filled lattice-topped cake from Norway, often enjoyed at Christmas.",
+        "preparationTimeMinutes": 90,
+        "recipeUrl": "https://en.wikipedia.org/wiki/Fyrstekake",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Fyrstekake.jpg",
+        "imageUrlThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Fyrstekake.jpg/250px-Fyrstekake.jpg"
+      },
+      {
+        "uuid": "223901234-5j45-6789-mn01-234567abcdef",
+        "title": "Finnish Salmon Soup (Lohikeitto)",
+        "label": "Scandinavian",
+        "description": "Creamy Finnish soup with salmon, potatoes, carrots, leeks & dill.",
+        "preparationTimeMinutes": 40,
+        "recipeUrl": "https://en.wikipedia.org/wiki/Lohikeitto",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Lohikeitto.jpg",
+        "imageUrlThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lohikeitto.jpg/250px-Lohikeitto.jpg"
+      },
+      {
+        "uuid": "334012345-6k56-7890-no12-345678abcdef",
+        "title": "Danish Æbleskiver",
+        "label": "Scandinavian",
+        "description": "Spherical Danish pancake balls, traditionally served with jam & powdered sugar.",
+        "preparationTimeMinutes": 30,
+        "recipeUrl": "https://en.wikipedia.org/wiki/%C3%86bleskiver",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/%C3%86bleskiver.jpg",
+        "imageUrlThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/%C3%86bleskiver.jpg/250px-%C3%86bleskiver.jpg"
+      },
+      {
+        "uuid": "445123456-7l67-8901-op23-456789abcdef",
+        "title": "Scandinavian Smoked Salmon Smørrebrød",
+        "label": "Scandinavian",
+        "description": "Rye bread topped with smoked salmon, fennel-apple salad & horseradish crème.",
+        "preparationTimeMinutes": 30,
+        "recipeUrl": "https://www.foodandwine.com/recipes/smoked-salmon-smorrebrod",
+        "imageUrl": "https://foodandwine.com/photos/smoked-salmon-smorrebrod.jpg",
+        "imageUrlThumbnail": "https://foodandwine.com/photos/smoked-salmon-smorrebrod-thumb.jpg"
+      },
+      {
+        "uuid": "556234567-8m78-9012-qr34-567890abcdef",
+        "title": "Swedish Pytt i Panna",
+        "label": "Scandinavian",
+        "description": "Swedish hash of diced potatoes, onions and meat, topped with a fried egg.",
+        "preparationTimeMinutes": 25,
+        "recipeUrl": "https://en.wikipedia.org/wiki/Pyttipanna",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Pyttipanna.jpg",
+        "imageUrlThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Pyttipanna.jpg/250px-Pyttipanna.jpg"
+      },
+      {
+        "uuid": "667345678-9n89-0123-st45-678901abcdef",
+        "title": "Scandinavian Open-faced Egg & Shrimp",
+        "label": "Scandinavian",
+        "description": "Rye bread with egg, shrimp, radish & dill—elegant snack.",
+        "preparationTimeMinutes": 10,
+        "recipeUrl": "https://www.saveur.com/gallery/rules-to-make-smorrebrod/",
+        "imageUrl": "https://assets.saveur.com/images/egg-shrimp-smorrebrod.jpg",
+        "imageUrlThumbnail": "https://assets.saveur.com/images/egg-shrimp-smorrebrod-thumb.jpg"
+      },
+      {
+        "uuid": "778456789-0o90-1234-uv56-789012abcdef",
+        "title": "Scandinavian Beet Smørrebrød",
+        "label": "Scandinavian",
+        "description": "Rye bread topped with pickled beets and crème fraîche—bright and flavorful.",
+        "preparationTimeMinutes": 15,
+        "recipeUrl": "https://www.saveur.com/gallery/rules-to-make-smorrebrod/",
+        "imageUrl": "https://assets.saveur.com/images/beet-smorrebrod.jpg",
+        "imageUrlThumbnail": "https://assets.saveur.com/images/beet-smorrebrod-thumb.jpg"
+      },
+      {
+        "uuid": "889567890-pq01-2345-wx67-890123abcdef",
+        "title": "American BBQ Pulled Pork Sandwich",
+        "label": "American",
+        "description": "Slow‑cooked pulled pork in BBQ sauce served on bun.",
+        "preparationTimeMinutes": 480,
+        "recipeUrl": "https://www.allrecipes.com/recipe/16230/easy-pulled-pork/",
+        "imageUrl": "https://images.allrecipes.com/photos/american-pulled-pork.jpg",
+        "imageUrlThumbnail": "https://images.allrecipes.com/photos/american-pulled-pork-thumb.jpg"
+      },
+      {
+        "uuid": "990678901-rs12-3456-yz78-901234abcdef",
+        "title": "Dessert Scandinavian Rice Pudding",
+        "label": "Dessert",
+        "description": "Creamy rice pudding topped with berries, often served in Nordic countries.",
+        "preparationTimeMinutes": 45,
+        "recipeUrl": "https://true-north-kitchen.com/category/recipes/smorrebrod/",
+        "imageUrl": "https://true-north-kitchen.com/images/rice-pudding-berries.jpg",
+        "imageUrlThumbnail": "https://true-north-kitchen.com/images/rice-pudding-berries-thumb.jpg"
+      },
+      {
+        "uuid": "ab012345-uv23-4567-ab89-012345abcdef",
+        "title": "Asian Scandi Fusion Sushi",
+        "label": "Asian",
+        "description": "Fusion sushi roll with Scandinavian smoked salmon and dill.",
+        "preparationTimeMinutes": 40,
+        "recipeUrl": "https://www.allrecipes.com/recipe/232101/fusion-sushi/",
+        "imageUrl": "https://images.media-allrecipes.com/userphotos/fusion-sushi.jpg",
+        "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/fusion-sushi-thumb.jpg"
+      }
+  ]
+}
+
 

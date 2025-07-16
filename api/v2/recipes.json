@@ -1,0 +1,224 @@
+{
+  "recipes": [
+    {
+      "title": "Classic American Cheeseburger",
+      "label": "American",
+      "description": "Juicy grilled cheeseburger with melted cheddar and pickles.",
+      "preparationTimeMinutes": 20,
+      "recipeUrl": "https://www.simplyrecipes.com/recipes/perfect_burger/",
+      "imageUrl": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=800&q=80",
+      "imageUrlThumbnail": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=200&q=60",
+      "uuid": "58d0b60a-2f86-4769-a6a6-92b8aa4e5fcd"
+    },
+    {
+      "title": "Creamy Vegan Pasta",
+      "label": "Vegan",
+      "description": "Rich and creamy pasta made from white beans and garlic.",
+      "preparationTimeMinutes": 25,
+      "recipeUrl": "https://www.loveandlemons.com/creamy-vegan-pasta/",
+      "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2018/03/IMG_11247-cropped-580x820.jpg",
+      "imageUrlThumbnail": "https://cdn.loveandlemons.com/wp-content/uploads/2018/03/IMG_11247-cropped-580x820.jpg",
+      "uuid": "80f1ca5b-152b-4626-b99c-ca62f8f098d2"
+    },
+    {
+      "uuid": "3765597A-D982-42FC-9E42-41C788C69D5E",
+      "title": "Jamaican Jerk Chicken",
+      "label": "Caribbean",
+      "description": "This recipe is fragrant, fiery hot, and smoky all at once.",
+      "preparationTimeMinutes": 60,
+      "recipeUrl": "https://www.foodandwine.com/recipes/jamaican-jerk-chicken",
+      "imageUrl": "https://www.foodandwine.com/thmb/AbaDjGVLSIk8MP53z0ZVTPgv88M=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/jamaican-jerk-chicken-FT-RECIPE0918-eabbd55da31f4fa9b74367ef47464351.jpg",
+      "imageUrlThumbnail": "https://www.foodandwine.com/thmb/AbaDjGVLSIk8MP53z0ZVTPgv88M=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/jamaican-jerk-chicken-FT-RECIPE0918-eabbd55da31f4fa9b74367ef47464351.jpg"
+    },
+    {
+      "uuid": "1265597A-D982-42FC-9E42-41C788C69D5E",
+      "title": "Andalusian Gazpacho",
+      "label": "Spanish",
+      "description": "Refreshing and healthy cold vegetable soup",
+      "preparationTimeMinutes": 15,
+      "recipeUrl": "https://www.javirecetas.com/gazpacho-receta-de-gazpacho-andaluz/",
+      "imageUrl": "https://www.javirecetas.com/wp-content/uploads/2009/07/gazpacho-1-600x900.jpg",
+      "imageUrlThumbnail": "https://www.javirecetas.com/wp-content/uploads/2009/07/gazpacho-1-600x900.jpg"
+    },
+    {
+      "uuid": "2365597A-D982-42FC-9E42-41C788C69D5E",
+      "title": "Black Rice",
+      "label": "Spanish",
+      "description": "Seafood paella variant with squid inc",
+      "preparationTimeMinutes": 75,
+      "recipeUrl": "https://www.javirecetas.com/arroz-negro/",
+      "imageUrl": "https://recetasdecocina.elmundo.es/wp-content/uploads/2017/08/arroz-negro-receta.jpg",
+      "imageUrlThumbnail": "https://recetasdecocina.elmundo.es/wp-content/uploads/2017/08/arroz-negro-receta.jpg"
+    },
+    {
+      "uuid": "4565597A-D982-42FC-9E42-41C788C69D5E",
+      "title": "Chorizo Lentils",
+      "label": "Spanish",
+      "description": "Lentils with chorizo sausage",
+      "preparationTimeMinutes": 45,
+      "recipeUrl": "https://www.javirecetas.com/arroz-negro/",
+      "imageUrl": "https://spanishsabores.com/wp-content/uploads/2024/02/Lentejas-con-Chorizo-Featured.jpg",
+      "imageUrlThumbnail": "https://spanishsabores.com/wp-content/uploads/2024/02/Lentejas-con-Chorizo-Featured.jpg"
+    },
+    {
+      "uuid": "5565597A-D982-42FC-9E42-41C788C69D5E",
+      "title": "Coca Cola Pulled Pork",
+      "label": "New American",
+      "description": "Slow coooker pulled pork recipe cooked in Coca Cola, Could it be more American?",
+      "preparationTimeMinutes": 180,
+      "recipeUrl": "https://www.javirecetas.com/arroz-negro/",
+      "imageUrl": "https://www.recipetineats.com/tachyon/2019/11/Close-up-of-pulled-pork-with-BBQ-Sauce.jpg",
+      "imageUrlThumbnail": "https://www.recipetineats.com/tachyon/2019/11/Close-up-of-pulled-pork-with-BBQ-Sauce.jpg"
+    },
+    {
+      "uuid": "6565597A-D982-42FC-9E42-41C788C69D5E",
+      "title": "Mac and Cheese",
+      "label": "American",
+      "description": "Step-by-Step Guide on how to make Instant Pot Mac and Cheese! Easy to make gloriously creamy homemade mac and cheese in Instant Pot with pantry ingredients. Tender macaroni in a dreamy smooth and rich cheese sauce. Classic comfort food not just for kids!",
+      "preparationTimeMinutes": 35,
+      "recipeUrl": "https://www.pressurecookrecipes.com/pressure-cooker-mac-and-cheese/",
+      "imageUrl": "https://www.pressurecookrecipes.com/wp-content/uploads/2022/12/instant-pot-mac-and-cheese.jpg",
+      "imageUrlThumbnail": "https://www.pressurecookrecipes.com/wp-content/uploads/2022/12/instant-pot-mac-and-cheese.jpg"
+    },
+    {
+      "uuid": "7565597A-D982-42FC-9E42-41C788C69D5E",
+      "title": "Spinach Soup",
+      "label": "Vegan",
+      "description": "Pepperpot soup is an African stew that originated in West Africa and made its way to the Caribbean and Atlantic coast of North America by the Slave trade.",
+      "preparationTimeMinutes": 45,
+      "recipeUrl": "https://healthiersteps.com/vegan-spinach-soup/",
+      "imageUrl": "https://healthiersteps.com/wp-content/uploads/2019/01/gluten-free-vegan-spinach-soup.jpg",
+      "imageUrlThumbnail": "https://healthiersteps.com/wp-content/uploads/2019/01/gluten-free-vegan-spinach-soup.jpg"
+    },
+    {
+      "uuid": "7365597A-D982-42FC-9E42-41C788C69D5E",
+      "title": "Chili Con Carne",
+      "label": "American",
+      "description": "This chili con carne recipe is many years in the making, and I have won several awards with it. I think you will be pleased with it. You can alter it to your own spice levels to achieve your perfect chili. Garnish with shredded mozzarella cheese and use corn chips for dipping.",
+      "preparationTimeMinutes": 175,
+      "recipeUrl": "https://www.allrecipes.com/recipe/89993/award-winning-chili-con-carne/",
+      "imageUrl": "https://www.allrecipes.com/thmb/XcVfbUXWJVZNfOR7KHArA9NUi-s=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/89993-award-winning-chili-con-carne-ddmfs-3x4-4e3a48f5505a4c998415c261507b0a76.jpg",
+      "imageUrlThumbnail": "https://www.allrecipes.com/thmb/XcVfbUXWJVZNfOR7KHArA9NUi-s=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/89993-award-winning-chili-con-carne-ddmfs-3x4-4e3a48f5505a4c998415c261507b0a76.jpg"
+    },
+    {
+      "uuid": "a1111111-1111-1111-1111-111111111111",
+      "title": "Ginger Veggie Stir Fry",
+      "label": "Asian",
+      "description": "Stir‑fry with broccoli, carrots, snow peas and ginger garlic sauce.",
+      "preparationTimeMinutes": 30,
+      "recipeUrl": "https://www.allrecipes.com/recipe/24712/ginger-veggie-stir-fry/",
+      "imageUrl": "https://www.allrecipes.com/thmb/V0Phv94j41p6HBm8Hdu92GG2_y8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/24712-ginger-veggie-stir-fry-DDMFS-4X3-3f25aaf303e04c849a71cc1e448dae6d.jpg",
+      "imageUrlThumbnail": "https://www.allrecipes.com/thmb/V0Phv94j41p6HBm8Hdu92GG2_y8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/24712-ginger-veggie-stir-fry-DDMFS-4X3-3f25aaf303e04c849a71cc1e448dae6d.jpg"
+    },
+    {
+      "uuid": "b2222222-2222-2222-2222-222222222222",
+      "title": "Owen's Veggie Stir‑Fry",
+      "label": "Asian",
+      "description": "Chinese‑inspired vegetable stir‑fry, great with rice.",
+      "preparationTimeMinutes": 20,
+      "recipeUrl": "https://www.allrecipes.com/recipe/16474/owens-veggie-stir-fry/",
+      "imageUrl": "https://www.allrecipes.com/thmb/Oib0eLtap290t0YjO5xjcJJra_Q=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/16474owens-veggie-stir-frylutzflcat4x3-3e4a3bbe0ad64c31a6c6e010a9e63dba.jpg",
+      "imageUrlThumbnail": "https://www.allrecipes.com/thmb/Oib0eLtap290t0YjO5xjcJJra_Q=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/16474owens-veggie-stir-frylutzflcat4x3-3e4a3bbe0ad64c31a6c6e010a9e63dba.jpg"
+    },
+    {
+      "uuid": "c3333333-3333-3333-3333-333333333333",
+      "title": "Chicken Stir Fry",
+      "label": "Asian",
+      "description": "Sweet and savory soy‑ginger garlic chicken stir‑fry.",
+      "preparationTimeMinutes": 40,
+      "recipeUrl": "https://www.allrecipes.com/recipe/223382/chicken-stir-fry/",
+      "imageUrl": "https://www.allrecipes.com/thmb/iDt1q6JPLSYspA6ekla6XB2B19w=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AR-223382-Chicken-Stir-Fry-DDMFS-Step-04-9687abb9db6b406cb39b36ab272cb7c3.jpg",
+      "imageUrlThumbnail": "https://www.allrecipes.com/thmb/iDt1q6JPLSYspA6ekla6XB2B19w=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AR-223382-Chicken-Stir-Fry-DDMFS-Step-04-9687abb9db6b406cb39b36ab272cb7c3.jpg"
+    },
+    {
+      "uuid": "d4444444-4444-4444-4444-444444444444",
+      "title": "Frozen Vegetable Stir-Fry",
+      "label": "Asian",
+      "description": "Quick stir‑fry with frozen veggies and Thai‑style sauce.",
+      "preparationTimeMinutes": 10,
+      "recipeUrl": "https://www.allrecipes.com/recipe/222658/frozen-vegetable-stir-fry/",
+      "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/2226586.jpg",
+      "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/2226586.jpg"
+    },
+    {
+      "uuid": "e5555555-5555-5555-5555-555555555555",
+      "title": "Sesame Vegetable Stir‑Fry",
+      "label": "Asian",
+      "description": "Broccoli, snow peas & peppers in sesame soy sauce.",
+      "preparationTimeMinutes": 25,
+      "recipeUrl": "https://www.allrecipes.com/recipe/237740/sesame-vegetable-stir-fry/",
+      "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/2377400.jpg",
+      "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/2377400.jpg"
+    },
+    {
+      "uuid": "f6666666-6666-6666-6666-666666666666",
+      "title": "Quick Beef Stir-Fry",
+      "label": "Asian",
+      "description": "Beef and broccoli stir‑fry ready in 25 minutes.",
+      "preparationTimeMinutes": 25,
+      "recipeUrl": "https://www.allrecipes.com/recipe/228823/quick-beef-stir-fry/",
+      "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/2288231.jpg",
+      "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/2288231.jpg"
+    },
+    {
+      "uuid": "a7777777-7777-7777-7777-777777777777",
+      "title": "Vegan Stir‑Fry",
+      "label": "Vegan",
+      "description": "Quick mix‑veggie vegan stir‑fry with cauliflower.",
+      "preparationTimeMinutes": 40,
+      "recipeUrl": "https://www.allrecipes.com/recipe/285234/vegan-stir-fry/",
+      "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/2852340.jpg",
+      "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/2852340.jpg"
+    },
+    {
+      "uuid": "b8888888-8888-8888-8888-888888888888",
+      "title": "To Die For Blueberry Muffins",
+      "label": "Dessert",
+      "description": "Extra‑large bakery‑style blueberry muffins with streusel.",
+      "preparationTimeMinutes": 35,
+      "recipeUrl": "https://www.allrecipes.com/recipe/6865/to-die-for-blueberry-muffins/",
+      "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/6865.jpg",
+      "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/6865.jpg"
+    },
+    {
+      "uuid": "c9999999-9999-9999-9999-999999999999",
+      "title": "Streusel‑Topped Blueberry Muffins",
+      "label": "Dessert",
+      "description": "Blueberry muffins with a crunchy cinnamon streusel topping.",
+      "preparationTimeMinutes": 30,
+      "recipeUrl": "https://www.allrecipes.com/recipe/6854/streusel-topped-blueberry-muffins/",
+      "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/6854.jpg",
+      "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/6854.jpg"
+    },
+    {
+      "uuid": "daaaaaaaaaaaaaaa1",
+      "title": "Blueberry Muffins I",
+      "label": "Dessert",
+      "description": "Classic blueberry muffins with oil and milk.",
+      "preparationTimeMinutes": 30,
+      "recipeUrl": "https://www.allrecipes.com/recipe/7905/blueberry-muffins-i/",
+      "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/7905.jpg",
+      "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/7905.jpg"
+    },
+    {
+      "uuid": "ebbbbbbbbbbbbbbb2",
+      "title": "Low‑Cholesterol Blueberry Muffins",
+      "label": "Dessert",
+      "description": "Blueberry muffins made with egg whites and applesauce.",
+      "preparationTimeMinutes": 30,
+      "recipeUrl": "https://www.allrecipes.com/recipe/6846/low-cholesterol-blueberry-muffins-ii/",
+      "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/6846.jpg",
+      "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/6846.jpg"
+    },
+    {
+      "uuid": "fccccccccccccccc3",
+      "title": "Chicken and Vegetable Stir‑Fry",
+      "label": "Asian",
+      "description": "Chicken stir‑fry with broccoli, zucchini, and bell pepper.",
+      "preparationTimeMinutes": 40,
+      "recipeUrl": "https://www.allrecipes.com/recipe/231229/stir-fry-chicken-and-vegetables/",
+      "imageUrl": "https://images.media-allrecipes.com/userphotos/720x405/2312290.jpg",
+      "imageUrlThumbnail": "https://images.media-allrecipes.com/userphotos/250x140/2312290.jpg"
+    }
+ ]
+}
